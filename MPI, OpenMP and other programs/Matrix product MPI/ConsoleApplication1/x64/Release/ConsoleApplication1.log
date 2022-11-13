@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.c
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab16\ConsoleApplication1\ConsoleApplication1.c(6,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab16\ConsoleApplication1\ConsoleApplication1.c(6,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab16\ConsoleApplication1\ConsoleApplication1.c(29,14): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab16\ConsoleApplication1\ConsoleApplication1.c(12,13): warning C4101: status: неиспользованная локальная переменная
+  Создание кода
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab16\x64\Release\ConsoleApplication1.exe

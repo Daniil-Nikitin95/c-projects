@@ -1,0 +1,7 @@
+﻿  Master.c
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab27\Master\Master\Master.c(6,29): warning C4101: rank3: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Master.vcxproj -> D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab27\Master\x64\Release\Master.exe

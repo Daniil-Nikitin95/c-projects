@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.c
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab13\ConsoleApplication1\ConsoleApplication1.c(13,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab13\x64\Release\ConsoleApplication1.exe

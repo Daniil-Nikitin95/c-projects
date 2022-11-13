@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.c
+D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab17\ConsoleApplication1\ConsoleApplication1.c(15,18): warning C4101: i: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Мое IT резюме\Github\Для загрузки\c-projects\MPI, OpenMP and other labs\Lab17\x64\Release\ConsoleApplication1.exe
